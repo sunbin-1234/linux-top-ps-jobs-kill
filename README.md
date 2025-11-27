@@ -54,9 +54,8 @@
 ### 5. 이미지
 - top 실행 화면
   
-![top 실행 화면](C:\Users\선빈\Pictures\과제 #2)
+<img width="1206" height="528" alt="Image" src="https://github.com/user-attachments/assets/9ac779ba-7540-420c-851c-6f3a7aa6324e" />
 
-#
 
 ## 2-2 ps 명령어
 
@@ -205,4 +204,5 @@
 ### 팁
 - `ps`, `jobs` 명령어로 PID를 확인하고, 그 다음 `kill`을 쓰면 안전하게 프로세스를 관리할 수 있어요.
 - `kill`은 “조용히 부탁하는 종료” → 안 되면 “강제로 꺼버리기” 두 단계로 생각하면 쉬워요.
+
 
