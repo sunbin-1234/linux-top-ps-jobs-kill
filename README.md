@@ -1,4 +1,4 @@
-<img width="502" height="152" alt="image" src="https://github.com/user-attachments/assets/49401f78-e08b-4ea8-be56-5cdf219b0293" /># 과제 #2 
+# 과제 #2 
 
 ## 주제: top ps, jobs, kill 명령어 조사 
 
@@ -169,7 +169,7 @@
 ### 5. 이미지
 - `jobs` 실행 화면
 
-  
+<img width="502" height="152" alt="Image" src="https://github.com/user-attachments/assets/fd6a6939-4be8-4312-9f0d-f8ae422e61a5" />  
 
 #
 
