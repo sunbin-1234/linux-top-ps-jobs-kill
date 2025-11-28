@@ -1,4 +1,4 @@
-# 과제 #2 
+<img width="502" height="152" alt="image" src="https://github.com/user-attachments/assets/49401f78-e08b-4ea8-be56-5cdf219b0293" /># 과제 #2 
 
 ## 주제: top ps, jobs, kill 명령어 조사 
 
@@ -112,6 +112,8 @@
 - `ps aux` 실행 화면
 - `ps -ef` 실행 화면
 
+<img width="1080" height="370" alt="Image" src="https://github.com/user-attachments/assets/db79a918-8bd6-4e0b-a497-753b01ac68ae" />
+
 #
 
 ## 2-3 jobs 명령어
@@ -161,7 +163,13 @@
 
 `bg %1`
 
+### 5. 이미지
+- `jobs` 실행 화면
 
+### 5. 이미지
+- `jobs` 실행 화면
+
+  
 
 #
 
@@ -210,6 +218,7 @@
 ### 팁
 - `ps`, `jobs` 명령어로 PID를 확인하고, 그 다음 `kill`을 쓰면 안전하게 프로세스를 관리할 수 있어요.
 - `kill`은 “조용히 부탁하는 종료” → 안 되면 “강제로 꺼버리기” 두 단계로 생각하면 쉬워요.
+
 
 
 
