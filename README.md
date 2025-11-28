@@ -12,7 +12,6 @@
 | `jobs` | 현재 터미널 작업 관리 | 백그라운드/일시정지 작업 확인: `jobs` / 포그라운드: `fg %번호` / 백그라운드: `bg %번호` | `sleep 100 &` → `jobs` → `fg %1` |
 | `kill` | 프로세스 종료 / 신호 전송 | 종료: `kill PID` / 강제 종료: `kill -9 PID` / 일시정지: `kill -STOP PID` | `kill 1234` / `kill -9 1234` |
 
-
 #
 
 ## 2-1 top 명령어란
@@ -56,6 +55,7 @@
   
 <img width="1206" height="528" alt="Image" src="https://github.com/user-attachments/assets/9ac779ba-7540-420c-851c-6f3a7aa6324e" />
 
+#
 
 ## 2-2 ps 명령어
 
@@ -215,3 +215,4 @@
 ### 팁
 - `ps`, `jobs` 명령어로 PID를 확인하고, 그 다음 `kill`을 쓰면 안전하게 프로세스를 관리할 수 있어요.
 - `kill`은 “조용히 부탁하는 종료” → 안 되면 “강제로 꺼버리기” 두 단계로 생각하면 쉬워요.
+
